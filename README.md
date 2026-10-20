@@ -4,7 +4,7 @@ Hands-on data lead. I build trustworthy AI analytics: semantic layers, guardrail
 
 - **I build:** data stacks ready for agentic analytics: dbt, semantic layers, Snowflake, DuckDB/MotherDuck, Python and Dagster, plus evals to check the agents.
 - **Also worked with:** Airflow, AWS (S3, DMS for CDC, Lambda), Iceberg, GitHub Actions, Docker, Claude Code.
-- **I've led:** data teams I built from scratch, twice (Door2door, nebenan.de).
+- **I've built:** the data stack from scratch, twice (Door2door, nebenan.de), and led the data team at nebenan.de.
 - **Impact at nebenan.de:**
   - led the personalised notifications end to end: click rates doubled, daily active users up about 24%
   - cut Snowflake ingestion costs by more than 80%
