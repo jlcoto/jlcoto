@@ -1,4 +1,4 @@
-### Hi, I'm José 👋
+### Hi, I'm Jose 👋
 
 Hands-on data lead. I build trustworthy AI analytics: semantic layers, guardrails, evals.
 
