@@ -10,6 +10,6 @@ Hands-on data lead. I build trustworthy AI analytics: semantic layers, guardrail
   - cut Snowflake ingestion costs by more than 80%
   - moved the personalisation pipelines to MotherDuck: 30% lower compute costs, near real-time
 - **Now:** [honest-agent](https://github.com/jlcoto/the_honest_agent), open-source evals that check whether your AI analytics agent got the right answer from the right sources.
-- **Writing:** [The Data Lead](https://thedatalead.substack.com), on data infrastructure, analytics engineering and leading data teams.
+- **Writing:** [The Data Lead](https://blog.thegroundlayer.io), on data infrastructure, analytics engineering and leading data teams.
 
 **Work with me:** I've gone freelance, building data foundations and AI analytics hands-on with companies. Get in touch through [The Groundlayer](https://thegroundlayer.io) or on [LinkedIn](https://www.linkedin.com/in/jose-coto).
